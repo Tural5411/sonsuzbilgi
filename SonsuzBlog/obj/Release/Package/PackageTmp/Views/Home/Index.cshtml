@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Anasehife";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="site-content">
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        Start Frontpage Slider Posts
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+    @{
+        Html.RenderAction("SliderGetir", "Slider");
+    }
+    <!--Start Frontpage CategorySlider
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+    @{ 
+        Html.RenderAction("KategorySlider", "CategoryWidget");
+    }
+
+    <!--~./End frontpage CategorySlider ~-->
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        Start Top Stories Block
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+    @{
+        Html.RenderAction("LatestTrendingGetir", "LatestTrending");
+    }
+    <!--~./ end top stories block ~-->
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        Start Main Wrapper
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+    <div class="main-wrapper ptb-80">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9">
+                    <!--~~~~~ Start Site Main ~~~~~-->
+                    @{
+                        Html.RenderAction("AllPostList", "Home");
+                    }
+                </div>
+                <!--~~~~~ Start sidebar ~~~~~-->
+                @{
+                    Html.RenderAction("AllWidgets", "Home");
+                }<!--~./ end sidebar ~-->
+            </div>
+        </div>
+    </div><!--~./ end main wrapper ~-->
+</div>
+

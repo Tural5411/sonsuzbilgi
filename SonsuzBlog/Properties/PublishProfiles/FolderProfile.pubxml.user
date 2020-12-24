@@ -1,0 +1,2777 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Tural\OneDrive\Desktop\sonsuzweb</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/AdminPanel/AdminFront1/css/style.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/js/misc.js">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/js/off-canvas.js">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/js/settings.js">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/ace-builds/src-min/ace.js">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/fonts/dropify-2.html">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/fonts/dropify-3.html">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/fonts/dropify-4.html">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/fonts/dropify.html">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/all.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/aero%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/aero.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/blue%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/blue.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/flat%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/flat.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/green%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/green.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/grey%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/grey.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/orange%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/orange.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/pink%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/pink.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/purple%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/purple.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/red%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/red.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/yellow%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/yellow.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/flat/_all.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/futurico/futurico%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/futurico/futurico.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/futurico/futurico.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/line/line%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/line/line.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/line/_all.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/aero%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/aero.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/blue%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/blue.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/green%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/green.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/grey%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/grey.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/minimal%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/minimal.png.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/orange%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/orange.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/pink%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/pink.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/purple%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/purple.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/red%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/red.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/yellow%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/yellow.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/minimal/_all.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/polaris/polaris%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/polaris/polaris.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/polaris/polaris.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/aero%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/aero.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/blue%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/blue.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/green%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/green.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/grey%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/grey.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/orange%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/orange.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/pink%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/pink.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/purple%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/purple.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/red%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/red.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/square%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/square.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/yellow%402x.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/yellow.png">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/icheck/skins/square/_all.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/css/flag-icon.min.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ad.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ae.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/af.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ag.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ai.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/al.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/am.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ao.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/aq.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ar.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/as.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/at.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/au.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/aw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ax.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/az.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ba.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bb.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bd.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/be.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bi.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bj.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bo.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bq.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/br.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bs.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/by.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/bz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ca.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cd.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ch.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ci.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ck.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/co.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cx.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cy.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/cz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/de.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/dj.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/dk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/dm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/do.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/dz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ec.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ee.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/eg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/eh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/er.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/es-ct.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/es.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/et.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/eu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/fi.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/fj.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/fk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/fm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/fo.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/fr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ga.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gb-eng.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gb-nir.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gb-sct.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gb-wls.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gb.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gd.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ge.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gi.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gp.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gq.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gs.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/gy.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/hk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/hm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/hn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/hr.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ht.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/hu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/id.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ie.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/il.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/im.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/in.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/io.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/iq.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ir.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/is.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/it.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/je.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/jm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/jo.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/jp.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ke.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/kg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/kh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ki.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/km.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/kn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/kp.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/kr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/kw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ky.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/kz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/la.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/lb.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/lc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/li.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/lk.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/lr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ls.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/lt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/lu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/lv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ly.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ma.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/md.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/me.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ml.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mo.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mp.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mq.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ms.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mx.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/my.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/mz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/na.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/nc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ne.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/nf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ng.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ni.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/nl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/no.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/np.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/nr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/nu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/nz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/om.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pa.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pe.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ph.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pn.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ps.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/pw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/py.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/qa.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/re.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ro.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/rs.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ru.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/rw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sa.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sb.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sd.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/se.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/si.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sj.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sm.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/so.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ss.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/st.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sx.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sy.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/sz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/td.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/th.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tj.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/to.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/tz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ua.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ug.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/um.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/un.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/us.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/uy.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/uz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/va.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/vc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ve.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/vg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/vi.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/vn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/vu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/wf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ws.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/ye.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/yt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/za.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/zm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/1x1/zw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ad.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ae.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/af.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ag.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ai.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/al.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/am.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ao.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/aq.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ar.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/as.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/at.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/au.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/aw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ax.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/az.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ba.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bb.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bd.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/be.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bi.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bj.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bo.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bq.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/br.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bs.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/by.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/bz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ca.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cd.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ch.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ci.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ck.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/co.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cx.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cy.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/cz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/de.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/dj.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/dk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/dm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/do.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/dz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ec.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ee.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/eg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/eh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/er.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/es-ct.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/es.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/et.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/eu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/fi.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/fj.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/fk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/fm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/fo.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/fr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ga.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gb-eng.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gb-nir.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gb-sct.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gb-wls.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gb.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gd.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ge.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gi.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gp.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gq.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gs.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/gy.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/hk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/hm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/hn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/hr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ht.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/hu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/id.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ie.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/il.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/im.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/in.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/io.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/iq.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ir.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/is.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/it.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/je.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/jm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/jo.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/jp.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ke.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/kg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/kh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ki.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/km.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/kn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/kp.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/kr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/kw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ky.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/kz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/la.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/lb.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/lc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/li.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/lk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/lr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ls.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/lt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/lu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/lv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ly.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ma.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/md.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/me.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ml.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mo.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mp.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mq.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ms.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mx.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/my.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/mz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/na.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/nc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ne.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/nf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ng.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ni.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/nl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/no.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/np.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/nr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/nu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/nz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/om.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pa.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pe.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ph.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ps.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/pw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/py.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/qa.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/re.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ro.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/rs.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ru.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/rw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sa.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sb.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sd.svg.tmp">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/se.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sh.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/si.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sj.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/so.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ss.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/st.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sx.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sy.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/sz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/td.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/th.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tj.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tk.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tl.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/to.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tr.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tv.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/tz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ua.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ug.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/um.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/un.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/us.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/uy.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/uz.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/va.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/vc.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ve.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/vg.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/vi.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/vn.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/vu.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/wf.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ws.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/ye.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/yt.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/za.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/zm.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/flag-icon-css/flags/4x3/zw.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/font-awesome/css/font-awesome.min.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/font-awesome/fonts/fontawesome-webfont3e6e.eot">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/font-awesome/fonts/fontawesome-webfont3e6e.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/font-awesome/fonts/fontawesome-webfont3e6e.ttf">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/font-awesome/fonts/fontawesome-webfont3e6e.woff">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/font-awesome/fonts/fontawesome-webfont3e6e.woff2">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/font-awesome/fonts/fontawesome-webfontd41d.eot">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/mdi/css/materialdesignicons.min.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/mdi/fonts/materialdesignicons-webfontb675.eot">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/mdi/fonts/materialdesignicons-webfontb675.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/mdi/fonts/materialdesignicons-webfontb675.ttf">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/mdi/fonts/materialdesignicons-webfontb675.woff">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/mdi/fonts/materialdesignicons-webfontb675.woff2">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/mdi/fonts/materialdesignicons-webfontd41d.eot">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/simple-line-icon/css/simple-line-icons.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/simple-line-icon/fonts/Simple-Line-Iconsb26c.eot">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/simple-line-icon/fonts/Simple-Line-Iconsb26c.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/simple-line-icon/fonts/Simple-Line-Iconsb26c.ttf">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/simple-line-icon/fonts/Simple-Line-Iconsb26c.woff">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/simple-line-icon/fonts/Simple-Line-Iconsb26c.woff2">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/ti-icons/css/themify-icons.css">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/ti-icons/fonts/themify.eot">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/ti-icons/fonts/themify.svg">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/ti-icons/fonts/themify.ttf">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/ti-icons/fonts/themify.woff">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/iconfonts/ti-icons/fonts/themifyd41d.eot">
+      <publishTime>08/06/2020 15:55:00</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/js/vendor.bundle.addons.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/js/vendor.bundle.base.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/tinymce/themes/modern/theme.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/AdminFront1/vendors/tinymce/tinymce.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/ckeditor.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/ckeditor.js.map">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/af.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ar.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ast.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/bg.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ca.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/cs.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/da.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/de-ch.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/de.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/el.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/en-au.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/en-gb.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/en.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/eo.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/es.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/et.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/eu.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/fa.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/fi.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/fr.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/gl.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/gu.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/he.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/hr.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/hu.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/id.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/it.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ja.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/km.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/kn.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ko.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ku.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/lt.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/lv.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ms.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/nb.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ne.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/nl.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/no.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/oc.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/pl.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/pt-br.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/pt.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ro.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ru.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/si.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/sk.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/sl.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/sq.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/sr-latn.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/sr.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/sv.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/th.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/tr.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/tt.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/ug.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/uk.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/vi.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/zh-cn.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/build/translations/zh.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/sample/styles.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/src/ckeditor.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/ckeditor5 %281%29/webpack.config.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/Tags/bootstrap-tagsinput-angular.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/Tags/bootstrap-tagsinput.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Scripts/Tags/bootstrap-tagsinput.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Admin/IstifadeciEdit.cshtml">
+      <publishTime>08/08/2020 20:10:24</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Admin/Istifadeciler.cshtml">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Admin/MeqaleAktivlesdir.cshtml">
+      <publishTime>08/08/2020 20:04:33</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Admin/YazarAktivlesdir.cshtml">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/AdminHome/Index.cshtml">
+      <publishTime>08/08/2020 13:29:35</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Kateqoriya/Create.cshtml">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Kateqoriya/Delete.cshtml">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Kateqoriya/Details.cshtml">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Kateqoriya/Edit.cshtml">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Kateqoriya/Index.cshtml">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Meqale/Edit.cshtml">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Meqale/Index.cshtml">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Meqale/MeqaleYaz.cshtml">
+      <publishTime>08/08/2020 14:57:33</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/Shared/_LayoutAdmin.cshtml">
+      <publishTime>08/08/2020 13:15:07</publishTime>
+    </File>
+    <File Include="Areas/AdminPanel/Views/web.config">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/06/2020 15:55:08</publishTime>
+    </File>
+    <File Include="bin/SonsuzBlog.dll">
+      <publishTime>08/09/2020 12:48:00</publishTime>
+    </File>
+    <File Include="bin/SonsuzBlog.pdb">
+      <publishTime>08/09/2020 12:48:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>08/06/2020 15:55:07</publishTime>
+    </File>
+    <File Include="Content/DataTables/css/jquery.dataTables.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Content/DataTables/css/jquery.dataTables.min.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Content/DataTables/images/details_close.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Content/DataTables/images/details_open.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Content/DataTables/images/sort_asc.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Content/DataTables/images/sort_asc_disabled.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Content/DataTables/images/sort_both.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Content/DataTables/images/sort_desc.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Content/DataTables/images/sort_desc_disabled.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Content/DataTables/swf/flashExport.swf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/css/main.min.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/js/global.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/vendor/datepicker/daterangepicker.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/vendor/datepicker/daterangepicker.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/vendor/mdi-font/css/material-design-iconic-font.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/vendor/mdi-font/css/material-design-iconic-font.min.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/vendor/mdi-font/fonts/Material-Design-Iconic-Font.eot">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/vendor/mdi-font/fonts/Material-Design-Iconic-Font.svg">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/vendor/mdi-font/fonts/Material-Design-Iconic-Font.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/colorlib-regform-5/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/css/main.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/css/util.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-Black.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-BlackItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-Bold.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-BoldItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-ExtraBold.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-ExtraLight.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-ExtraLightItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-Italic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-Light.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-LightItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-Medium.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-MediumItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-Regular.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-SemiBold.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-SemiBoldItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-Thin.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/Montserrat-ThinItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/montserrat/OFL.txt">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-Black.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-BlackItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-Bold.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-BoldItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-ExtraBold.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-ExtraBoldItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-ExtraLight.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-ExtraLightItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-Italic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-Light.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-LightItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-Medium.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-MediumItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-Regular.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-SemiBold.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-SemiBoldItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-Thin.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/fonts/poppins/Poppins-ThinItalic.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/js/main.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/vendor/animate/animate.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/vendor/css-hamburgers/hamburgers.min.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/vendor/select2/select2.min.css">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/vendor/select2/select2.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/Login_v1/vendor/tilt/tilt.jquery.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/css/fontawesome.all.min.css">
+      <publishTime>08/07/2020 09:42:33</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/css/fontawesome.min.css">
+      <publishTime>08/07/2020 09:42:33</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/css/plugins.css">
+      <publishTime>08/07/2020 09:42:33</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/css/plugins/animate.min.css">
+      <publishTime>08/07/2020 09:42:33</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/css/plugins/bootstrap.css">
+      <publishTime>08/07/2020 09:42:33</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/css/plugins/bootstrap.min.css">
+      <publishTime>08/07/2020 09:42:33</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/css/plugins/breaking-news-ticker.css">
+      <publishTime>08/07/2020 09:42:33</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/css/plugins/meanmenu.min.css">
+      <publishTime>08/07/2020 09:42:33</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/css/plugins/owl.carousel.min.css">
+      <publishTime>08/07/2020 09:42:33</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/css/plugins/trackpad-scroll-emulator.css">
+      <publishTime>08/07/2020 09:42:33</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/images/icon/random.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/images/icon/search.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/images/widget/newsletter/icon.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/infinite_for_tural-0.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/bootstrap.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/breaking-news-ticker.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/jquery.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/jquery.trackpad-scroll-emulator.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/main.js">
+      <publishTime>08/08/2020 21:13:03</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/masonary.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/owl.carousel.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/plugins.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/popper.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/ResizeSensor.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/js/theia-sticky-sidebar.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-brands-400.eot">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-brands-400.svg">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-brands-400.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-brands-400.woff">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-brands-400.woff2">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-brands-400d41d.eot">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-regular-400.eot">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-regular-400.svg">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-regular-400.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-regular-400.woff">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-regular-400.woff2">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-regular-400d41d.eot">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-solid-900.eot">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-solid-900.svg">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-solid-900.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-solid-900.woff">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-solid-900.woff2">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fa-solid-900d41d.eot">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fontawesome-webfont3e6e.eot">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fontawesome-webfont3e6e.svg">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fontawesome-webfont3e6e.ttf">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fontawesome-webfont3e6e.woff">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fontawesome-webfont3e6e.woff2">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/assets/webfonts/fontawesome-webfontd41d.eot">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/magala-html/styles.css">
+      <publishTime>08/08/2020 21:13:07</publishTime>
+    </File>
+    <File Include="PublicFront/sonsuzuser.png">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="PublicFront/turalicon.ico">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Scripts/DataTables/jquery.dataTables.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.min.js">
+      <publishTime>08/06/2020 15:55:01</publishTime>
+    </File>
+    <File Include="Upload/logback1.jpg">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Upload/logback2.jpg">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/CategoryWidget/BreakingNews.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/CategoryWidget/CategoryWidgetGetir.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/CategoryWidget/CategoryWidgetNumber.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/CategoryWidget/Index.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/CategoryWidget/KategorySlider.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/Etiket/Index.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/Home/AllWidgets.cshtml">
+      <publishTime>08/08/2020 15:09:53</publishTime>
+    </File>
+    <File Include="Views/Home/Elaqe.cshtml">
+      <publishTime>08/08/2020 19:37:12</publishTime>
+    </File>
+    <File Include="Views/Home/Haqqimizda.cshtml">
+      <publishTime>08/08/2020 19:49:00</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>08/07/2020 19:11:50</publishTime>
+    </File>
+    <File Include="Views/Home/Navbar.cshtml">
+      <publishTime>08/08/2020 19:57:44</publishTime>
+    </File>
+    <File Include="Views/Home/PostAxtar.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/Home/PostAxtarPartial.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/Home/Qaydalar.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/LatestTrending/LatestTrendingGetir.cshtml">
+      <publishTime>08/06/2020 17:44:19</publishTime>
+    </File>
+    <File Include="Views/MiniSliderWidget/MiniSliderWidgetGetir.cshtml">
+      <publishTime>08/06/2020 17:42:55</publishTime>
+    </File>
+    <File Include="Views/Muellif/Index.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/PopularWidget/PopularWidgetGetir.cshtml">
+      <publishTime>08/06/2020 17:42:35</publishTime>
+    </File>
+    <File Include="Views/Post/PostDetail.cshtml">
+      <publishTime>08/08/2020 19:19:16</publishTime>
+    </File>
+    <File Include="Views/Post/RelatedPost.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/Post/RelatedTag.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/Shared/PostList.cshtml">
+      <publishTime>08/06/2020 17:39:55</publishTime>
+    </File>
+    <File Include="Views/Shared/PostListCat.cshtml">
+      <publishTime>08/06/2020 18:00:40</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>08/08/2020 21:16:26</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutCategory.cshtml">
+      <publishTime>08/08/2020 21:17:00</publishTime>
+    </File>
+    <File Include="Views/Slider/SliderGetir.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/Users/Giris.cshtml">
+      <publishTime>08/06/2020 17:51:42</publishTime>
+    </File>
+    <File Include="Views/Users/IstifadeciOl.cshtml">
+      <publishTime>08/06/2020 17:53:22</publishTime>
+    </File>
+    <File Include="Views/Users/MuellifOl.cshtml">
+      <publishTime>08/06/2020 17:53:38</publishTime>
+    </File>
+    <File Include="Views/Users/RememberMe.cshtml">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>08/06/2020 15:55:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/09/2020 12:48:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
