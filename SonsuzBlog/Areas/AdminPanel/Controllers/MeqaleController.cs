@@ -9,8 +9,11 @@ using System.Web;
 using System.Web.Helpers;
 using System.Web.Mvc;
 using System.Data.Entity;
+using System.Web.Security;
+
 namespace SonsuzBlog.Areas.AdminPanel.Controllers
 {
+    [Authorize]
     public class MeqaleController : Controller
     {
         Model1 db = new Model1();

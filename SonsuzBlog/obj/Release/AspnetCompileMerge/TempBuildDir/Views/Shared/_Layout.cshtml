@@ -1,0 +1,251 @@
+﻿@model SonsuzBlog.ViewModel.PostVm
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google-site-verification" content="4wl_t9c_7Wrf1b6kJbR9DtiGOQYszLTSNL2MtQhoyYw" />
+    <!--SEO-->
+    @RenderSection("seokomek", false)
+    @if (Model.postsingle == null)
+    {
+        <meta name="keywords" content="Tehsil, Biologiya, Texnologiya, Fizika, Kimya, Felsefe, Tarix, Din, Astronomiya, Film, Kitab, Kosmos, Cografiya, Faktlar, Tekamul Nezeriyyesi, Ateizm, Darvin, Universitet, Zoologiya, Tebiet, sonxeberler, en son xeberler, xeberler" />
+        <meta name="description" content="Sonsuzbilgi- Elm,texnologiya,təhsil,ədəbiyyat,tarix,incəsənət, keçmiş və gələcək ilə maraq edilən və bilinməyən doğruları ən xırda detallarına qədər araşdıran və sonda hərkəsin anlaya biləcəyi tərzdə qaynağa çevirən platformadır" />
+        <meta name="title" content="Sonsuzbilgi - Qaranlığı elmlə fəth et" />
+        <meta name="twitter:description" content="Sonsuzbilgi- Elm,texnologiya,təhsil,ədəbiyyat,tarix,incəsənət, keçmiş və gələcək ilə maraq edilən və bilinməyən doğruları ən xırda detallarına qədər araşdıran və sonda hərkəsin anlaya biləcəyi tərzdə qaynağa çevirən platformadır" />
+        <meta name="twitter:title" content="Sonsuzbilgi - Qaranlığı elmlə fəth et" />
+        <meta name="twitter:site" content="sonsuzbilgi.az" />
+        <meta property="og:title" content="Sonsuzbilgi - Qaranlığı elmlə fəth et" />
+        <meta property="og:site_name" content="sonsuzbilgi.az" />
+        <meta property="og:description" content="Sonsuzbilgi- Elm,texnologiya,təhsil,ədəbiyyat,tarix,incəsənət, keçmiş və gələcək ilə maraq edilən və bilinməyən doğruları ən xırda detallarına qədər araşdıran və sonda hərkəsin anlaya biləcəyi tərzdə qaynağa çevirən platformadır" />
+        <!-- Page Title -->
+        <title>Sonsuzbilgi - Qaranlığı elmlə fəth et</title>
+    }
+    <!--- Font Icon -->
+    <link rel="stylesheet" href="~/PublicFront/magala-html/assets/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="~/PublicFront/magala-html/assets/css/fontawesome.min.css">
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="shortcut icon" href="~/PublicFront/turalicon.ico">
+    <link href="~/PublicFront/magala-html/assets/webfonts/" rel="stylesheet" />
+    <!-- Plugins css -->
+    <link href="@(Url.Content("~/PublicFront/magala-html/assets/css/plugins.css"))" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+    <!-- Theme Style -->
+    <link href="@(Url.Content("~/PublicFront/magala-html/styles.css"))" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <style type="text/css">
+        #Context {
+            margin: auto;
+        }
+    </style>
+    <script src="~/PublicFront/magala-html/assets/js/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("a.beyen").click(function () {
+                var id = $(this).data("id");
+                var link = "/Post/PostBeyen/" + id;
+                var a = $(this);
+                $.ajax({
+                    type: "GET",
+                    url: link,
+                    success: function (result) {
+                        a.html("<i style='margin-right:2px; color:#b11515; font-weight:900;' class='fas fa-heart'></i>" + result);
+                        a.fadeOut(500);
+                    }
+                });
+            });
+        });
+        function bax(id) {
+
+            var link = "/Post/Baxildi/" + id;
+            $.get(link);
+        }
+    </script>
+</head>
+<body>
+    <!--********************************************************-->
+    <!--********************* SITE HEADER **********************-->
+    <!--********************************************************-->
+    <header class="site-header header-style-one">
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Start Site Navigation
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <div class="site-navigation">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="navbar navbar-expand-lg navigation-area">
+                            <div class="site-logo-block">
+                                <a class="navbar-brand site-logo" href="/">
+                                    <img width="88" height="44" src="~/PublicFront/magala-html/assets/infinite_for_tural-0.png" alt="logo">
+                                </a>
+                            </div><!--~./ site-logo-block ~-->
+                            <div class="mainmenu-area">
+                                @{
+                                    Html.RenderAction("Navbar", "Home");
+                                }
+                                <!--/.menu-->
+                            </div><!--~./ mainmenu-wrap ~-->
+                            <div class="header-navigation-right">
+                                @{
+                                    Html.RenderAction("PostAxtarPartial", "Home");
+                                }<!--~./ search-wrap ~-->
+                                <ul class="nav-btns">
+                                    <li>
+                                        @if (!User.Identity.IsAuthenticated && !User.IsInRole("Yazar"))
+                                        {
+                                            <a href="/Giris"><i class="fas fa-sign-in-alt"></i></a>
+                                        }
+                                        else
+                                        {
+                                            <a href="/Cixis"><i class="fas fa-user"></i></a>
+                                        }
+                                    </li>
+                                </ul>
+                            </div><!--~./ header-navigation-right ~-->
+                        </div><!--~./ navigation-area ~-->
+                    </div>
+                </div>
+            </div>
+        </div><!--~./ site-navigation ~-->
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Start Mobile Menu
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <div class="mobile-menu">
+            <a class="mobile-logo" href="/">
+                <img width="88" height="44" style="object-fit:cover;" src="~/PublicFront/magala-html/assets/infinite_for_tural-0.png" alt="logo">
+            </a>
+            <div class="header-navigation-right">
+                @{
+                    Html.RenderAction("PostAxtarPartial", "Home");
+                }<!--~./ search-wrap ~-->
+                <ul class="nav-btns">
+                    <li>
+                        @if (!User.Identity.IsAuthenticated && !User.IsInRole("Yazar"))
+                        {
+                            <a style="color:black;padding:15px; " href="/Giris"><i class="fas fa-sign-in-alt"></i></a>
+                        }
+                        else
+                        {
+                            <a style="color:black;padding:15px;" href="/Cixis"><i class="fas fa-user"></i></a>
+                        }
+                    </li>
+                </ul>
+            </div>
+        </div><!--~~./ end mobile menu ~~-->
+    </header>
+    <!--~./End site header ~-->
+    <!--********************************************************-->
+    <!--********************* SITE CONTENT *********************-->
+    <!--********************************************************-->
+    @RenderBody()
+    <!--~./ end site content ~-->
+    <!--********************************************************-->
+    <!--********************************************************-->
+    <!--********************** SITE FOOTER *********************-->
+    <!--********************************************************-->
+    <footer class="site-footer footer-default-style bg-black pt-80">
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Start Footer Widget Area
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <div class="footer-widget-area pb-20">
+            <div class="container">
+                <div class="row">
+                    <!--~~~~~ Start Widget About us Info ~~~~~-->
+                    <div class="col-lg-4">
+                        <aside class="widget bt-about-us-widget">
+                            <div class="widget-content">
+                                <div class="about-logo">
+                                    <a href="/">
+                                        <img style="position:relative;top:-20px; " width="88" height="44" src="~/PublicFront/magala-html/assets/infinite_for_tural-0.png" alt="logo">
+                                    </a>
+                                </div>
+                                <p style="position:relative;top:-20px; ">Elm,texnologiya,təhsil,ədəbiyyat,tarix,incəsənət, keçmiş və gələcək ilə maraq edilən və bilinməyən doğruları ən xırda detallarına qədər araşdıran və sonda hərkəsin anlaya biləcəyi tərzdə qaynağa çevirən platformadır.</p>
+                                <ul style="position:relative;top:-20px; " class="social-share">
+                                    <li><a class="facebook" href="https://www.facebook.com/sonsuzbilgi.az"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a class="youtube" href="#"><i class="fa fa-youtube"></i></a></li>
+                                    <li><a class="instagram" href="https://www.instagram.com/sonsuzbilgi.az/"><i class="fa fa-instagram"></i></a></li>
+                                </ul>
+                            </div>
+                        </aside>
+                    </div><!--~./ end about us widget ~-->
+                    <!--~~~~~ Start Latest Posts Widget~~~~~-->
+                    <div class="col-lg-4">
+                        <aside class="widget latest-posts-widget">
+                            <div class="widget-content">
+
+                            </div>
+                        </aside>
+                    </div><!--~./ end latest posts widget ~-->
+                    <!--~~~~~ Start Widget categories ~~~~~-->
+                    <div class="col-lg-4">
+                        @{Html.RenderAction("CategoryWidgetNumber", "CategoryWidget");}
+                    </div><!--~./ end widget address ~-->
+                </div>
+            </div>
+        </div>
+        <!--~./ end footer widgets area ~-->
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Start Footer Bottom Area
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <div class="footer-bottom-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="copyright-text">
+                            <p>© Copyright  2020 Sonsuzbilgi.az</p>
+                        </div>
+                    </div><!--~./ end copyright ~-->
+                    <div class="col-lg-6 col-md-6">
+                        <div class="footer-menu">
+                            <ul class="list">
+                                <li><a href="/Haqqimizda">Haqqımızda</a></li>
+                                <li><a href="/Qaydalar">Qaydalar və hüquqlar</a></li>
+                                <li><a href="/Elaqe">Əlaqə</a></li>
+                            </ul>
+                        </div><!--~./ end footer menu ~-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--~./ end footer bottom area ~-->
+    </footer>
+    <!--~./ end site footer ~-->
+    <!-- jQuery js -->
+    <!-- Bootstrap js -->
+    <script src="~/PublicFront/magala-html/assets/js/bootstrap.min.js"></script>
+    <!-- Popper js -->
+    <script src="~/PublicFront/magala-html/assets/js/popper.min.js"></script>
+    <!-- Owl carousel js -->
+    <script src="~/PublicFront/magala-html/assets/js/owl.carousel.min.js"></script>
+    <!-- News Ticker js -->
+    <script src="~/PublicFront/magala-html/assets/js/breaking-news-ticker.min.js"></script>
+    <!-- Sticky ResizeSensor js -->
+    <script src="~/PublicFront/magala-html/assets/js/ResizeSensor.min.js"></script>
+    <!-- Sticky Sidebar js -->
+    <script src="~/PublicFront/magala-html/assets/js/theia-sticky-sidebar.min.js"></script>
+    <!-- Plugin js -->
+    <script src="~/PublicFront/magala-html/assets/js/plugins.js"></script>
+    <!-- main js -->
+    <script src="@Url.Content("~/PublicFront/magala-html/assets/js/main.js")" type="text/javascript"></script>
+    <script>
+        const queueResetCount = debounce(() => {
+            if (window.DISQUSWIDGETS)
+                window.DISQUSWIDGETS.getCount({ reset: true });
+        }, 300, false);
+    </script>
+    <script id="dsq-count-scr" src="//sonsuzbilgi-az.disqus.com/count.js" async></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-173215164-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-173215164-1');
+    </script>
+</body>
+</html>

@@ -14,6 +14,8 @@ using SonsuzBlog.Models;
 
 namespace SonsuzBlog.Areas.AdminPanel.Controllers
 {
+
+    [Authorize]
     public class KateqoriyaController : Controller
     {
         private Model1 db = new Model1();

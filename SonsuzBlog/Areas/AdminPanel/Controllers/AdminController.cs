@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace SonsuzBlog.Areas.AdminPanel.Controllers
 {
+    [Authorize]
     public class AdminController : Controller
     {
         Model1 db = new Model1();      
